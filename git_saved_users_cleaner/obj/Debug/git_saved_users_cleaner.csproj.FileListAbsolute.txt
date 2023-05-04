@@ -1,0 +1,14 @@
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\bin\Debug\git_saved_users_cleaner.exe.config
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\bin\Debug\git_saved_users_cleaner.exe
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\bin\Debug\git_saved_users_cleaner.pdb
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner.csprojAssemblyReference.cache
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\App.g.cs
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner_MarkupCompile.cache
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner_MarkupCompile.lref
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\MainWindow.baml
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner.g.resources
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner.Properties.Resources.resources
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner.csproj.GenerateResource.cache
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner.exe
+C:\Users\student-a209\Desktop\git_saved_users_cleaner\git_saved_users_cleaner\obj\Debug\git_saved_users_cleaner.pdb
